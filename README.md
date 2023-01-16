@@ -1,2 +1,2 @@
 # C#
-Repositorio con mi aprendizaje en el lenguaje de programación C#
+Repositorio con mi aprendizaje en el lenguaje de programación C#. Comentarios.
