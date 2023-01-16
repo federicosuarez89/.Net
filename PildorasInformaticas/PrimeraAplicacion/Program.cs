@@ -14,6 +14,9 @@
             */
             int edad = 28;
             Console.WriteLine(edad);
+
+            //Interpolacion de string
+            Console.WriteLine($"Tenes {edad} años");
         }
     }
 }
