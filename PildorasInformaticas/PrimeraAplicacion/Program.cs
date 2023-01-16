@@ -17,6 +17,11 @@
 
             //Interpolacion de string
             Console.WriteLine($"Tenes {edad} años");
+
+            //Lectura de datos ingresados por teclado
+            Console.WriteLine("Ingrese su edad: ");
+            int edadFede = int.Parse(Console.ReadLine());
+            Console.WriteLine("Tengo "+edadFede+" años");
         }
     }
 }
