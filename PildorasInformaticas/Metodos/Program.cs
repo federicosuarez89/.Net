@@ -9,6 +9,8 @@
             sumar(4, 8);
             Console.WriteLine("La resta de los dos numeros es: "+restar(20, 10));
             Console.WriteLine("Estamos usando sobrecarga de metodos,ahora la resta es: " + restar(1.5, 3.8));
+            Console.WriteLine("Multiplicando sin usar el parametro opcional: " + multiplicar(2, 3));
+            Console.WriteLine("Multiplicando usando el parametro opcional: " + multiplicar(2, 3, 4));
         }
 
         //Metodo para mostrar un mensaje por consola
@@ -34,6 +36,13 @@
         static double restar(double a,double b)
         {
             double resultado = a - b;
+            return resultado;
+        }
+
+        //Parametros opcionales
+        static int multiplicar(int a,int b,int c = 1)
+        {
+            int resultado = a * b * c;
             return resultado;
         }
     }
