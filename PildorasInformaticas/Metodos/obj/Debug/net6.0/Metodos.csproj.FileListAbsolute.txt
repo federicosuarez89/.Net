@@ -1,0 +1,15 @@
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\bin\Debug\net6.0\Metodos.exe
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\bin\Debug\net6.0\Metodos.deps.json
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\bin\Debug\net6.0\Metodos.runtimeconfig.json
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\bin\Debug\net6.0\Metodos.dll
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\bin\Debug\net6.0\Metodos.pdb
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\Metodos.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\Metodos.AssemblyInfo.cs
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\Metodos.dll
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\refint\Metodos.dll
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\Metodos.pdb
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\Metodos.genruntimeconfig.cache
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\PildorasInformaticas\Metodos\obj\Debug\net6.0\ref\Metodos.dll
