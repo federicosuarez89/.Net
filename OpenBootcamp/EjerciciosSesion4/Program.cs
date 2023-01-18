@@ -60,7 +60,7 @@
             } while (ottroContador2<cantNumeros);
             Console.WriteLine($"Cantidad de numeros negativos: {contadorNegativos}");
             Console.WriteLine($"Cantidad de numeros positivos: {contadorPositivos}");
-            Console.WriteLine($"Cantidad de numeros cero: {contadorCeros}");
+            Console.WriteLine($"Cantidad de numeros cero: {contadorCeros}");   
         }
 
         //Metodo para las tablas de multiplicar

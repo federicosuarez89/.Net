@@ -1,0 +1,15 @@
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\EjerciciosSesion5.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\EjerciciosSesion5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\EjerciciosSesion5.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\EjerciciosSesion5.AssemblyInfo.cs
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\EjerciciosSesion5.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\bin\Debug\net6.0\EjerciciosSesion5.exe
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\bin\Debug\net6.0\EjerciciosSesion5.deps.json
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\bin\Debug\net6.0\EjerciciosSesion5.runtimeconfig.json
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\bin\Debug\net6.0\EjerciciosSesion5.dll
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\bin\Debug\net6.0\EjerciciosSesion5.pdb
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\EjerciciosSesion5.dll
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\refint\EjerciciosSesion5.dll
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\EjerciciosSesion5.pdb
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\EjerciciosSesion5.genruntimeconfig.cache
+C:\Users\feder\Desktop\Federico\Desarrollador .Net\.Net\OpenBootcamp\EjerciciosSesion5\obj\Debug\net6.0\ref\EjerciciosSesion5.dll
